@@ -23,7 +23,7 @@
 - [**Student Database (C# Programming)**](https://github.com/Jellyman750/PRG282_Project.git)  
 - [**Student Wellness Application (Java Programming)**](https://github.com/Jellyman750/PRG381StudentWellnessApplication.git)  
 - [**VR Application for Laser-Cutter (Year Project)**](https://github.com/Llewellyn04/group-8-vr-lasercutter-project.git)  
--[**Linear Programming Solver**](mmmmm)
+-[**Linear Programming Solver**](https://github.com/Jellyman750/Linear_Programming_Solver_LPR381)
 
 ---
 
