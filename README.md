@@ -1,7 +1,7 @@
 ## Hi there I am Kyle Haynes-Smart👋
 
-🎓I am a Software Engineering Student at Belgium Campus iTversity 
-🌱I am Passionate about OOP,Back-end coding and AI
+###🎓I am a Software Engineering Student at Belgium Campus iTversity 
+###🌱I am Passionate about OOP,Back-end coding and AI
 💼Seeking internship/graduate opportunities in software development 
 🚀 Skills
        Programming: C#,Python,Java,SQL
