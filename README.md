@@ -15,11 +15,21 @@
 
 ---
 
+## 📂 GitHub Projects  
+
+- [**Student Community Portal (Web Application)**](https://github.com/Jellyman750/community-portal-prefilled.git)  
+- [**Grade Classification Prediction (Machine Learning)**](https://github.com/ToufeeqParker786/GuidedProject_MLG382_2025.git)  
+- [**Stock Prediction (Machine Learning)**](https://github.com/ToufeeqParker786/MLG382-Assignement2-Stock-Prediction.git)  
+- [**Student Database (C# Programming)**](https://github.com/Jellyman750/PRG282_Project.git)  
+- [**Student Wellness Application (Java Programming)**](https://github.com/Jellyman750/PRG381StudentWellnessApplication.git)  
+- [**VR Application for Laser-Cutter (Year Project)**](https://github.com/Llewellyn04/group-8-vr-lasercutter-project.git)  
+
+---
+
 🔭 I’m currently working on a **full-scale tutoring website** for Belgium Campus  
 📫 Reach me at: **kyle.smart1000@gmail.com**  
 ⚡ Fun fact: When I’m not coding, you’ll find me on the **padel courts** 🎾  
 
----
 
 <!--
 **Jellyman750/Jellyman750** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
