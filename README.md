@@ -27,7 +27,7 @@
 
 ---
 
-🔭 I’m currently working on a **full-scale tutoring website** for Belgium Campus  
+ 
 📫 Reach me at: **kyle.smart1000@gmail.com**  
 ⚡ Fun fact: I have a black belt in Judo  
 
